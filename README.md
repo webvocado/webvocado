@@ -1,9 +1,9 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=100&text=webvocado&fontSize=50&fontColor=3CB371&animation=twinkling" />	
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=100&text=☘️webvocado🥑&fontSize=50&fontColor=3CB371&animation=twinkling" />	
 </div>
 
 <div align="center">
-	 <h2 style="color:green;">🥑 Tech Stack 🥑</h2>
+	 <h2 style="color:green;"> Tech Stack </h2>
 	 <strong><p>🧱 Platforms & Languages 🧱</p></strong>
 </div>
 <div  align="center">
@@ -47,7 +47,8 @@
 </div>
 <br>
 
-
+<div align="center">
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebvocado&count_bg=%23429800&title_bg=%23A1C650&icon=github.svg&icon_color=%23FFFFFF&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 </div>
-<br>
 
