@@ -47,7 +47,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="right">
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebvocado&count_bg=%23429800&title_bg=%23A1C650&icon=github.svg&icon_color=%23FFFFFF&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 </div>
