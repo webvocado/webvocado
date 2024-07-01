@@ -51,8 +51,9 @@
 
 <table border="0">
   <tr border="0">
-    <td>![webvocado's GitHub stats](https://github-readme-stats.vercel.app/api?username=webvocado&show_icons=true&theme=merko)
-</td>
+	  
+   ![webvocado's GitHub stats](https://github-readme-stats.vercel.app/api?username=webvocado&show_icons=true&theme=merko)
+
     <td><img src="https://github-readme-stats.vercel.app/api?username=webvocado&show_icons=true"></td>
   </tr>
 </table>
